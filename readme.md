@@ -1,33 +1,34 @@
-​                                                      ![Alt Text](https://media.giphy.com/media/woAUedkxQ2qxUJqoUS/source.gif)
+​ ![Alt Text](https://media.giphy.com/media/woAUedkxQ2qxUJqoUS/source.gif)
 
 ## Vigenesia Mobile Memakai React Native
 
-**KELOMPOK TEKNOLOGI WEB SERVICE :**
+<!-- **KELOMPOK TEKNOLOGI WEB SERVICE :**
 
 * [Muhammad Aglia Dwitama](https://www.instagram.com/agliadwitama/)
 * [Muhammad Daffa Afif](https://www.instagram.com/daffaafi/)
 * [Yehezkiel Marbun Lumbanbatu](https://www.instagram.com/yehezxiel/)
-* [Yasha Gozwan Shuhada](https://www.instagram.com/yashagozwan/)
+* [Yasha Gozwan Shuhada](https://www.instagram.com/yashagozwan/) -->
 
 ### :books:List Mobile
 
-| Requirement | URL                                      |
-| :---------- | ----------- |
-| Node. Js | https://nodejs.org/en/ |
-| Yarn | https://yarnpkg.com/getting-started |
-|Expo Cli   | https://docs.expo.dev/workflow/expo-cli/ |
-| Moment.Js    | https://momentjs.com/ |
-| React-Native-Paper   | https://reactnativepaper.com/ |
-| Axios   | https://axios-http.com/docs/intro |
+| Requirement        | URL                                      |
+| :----------------- | ---------------------------------------- |
+| Node. Js           | https://nodejs.org/en/                   |
+| Yarn               | https://yarnpkg.com/getting-started      |
+| Expo Cli           | https://docs.expo.dev/workflow/expo-cli/ |
+| Moment.Js          | https://momentjs.com/                    |
+| React-Native-Paper | https://reactnativepaper.com/            |
+| Axios              | https://axios-http.com/docs/intro        |
 
 ### :office:Server
-| Requirement | URL                                      |
-| :---------- | ----------- |
-| Express | https://expressjs.com/ |
-| Joi | https://joi.dev/ |
-|Mongoose   | https://mongoosejs.com/ |
-| Json Web Tokens | https://jwt.io/ |
-| Bcrypt.js          | https://www.npmjs.com/package/bcrypt |
+
+| Requirement     | URL                                  |
+| :-------------- | ------------------------------------ |
+| Express         | https://expressjs.com/               |
+| Joi             | https://joi.dev/                     |
+| Mongoose        | https://mongoosejs.com/              |
+| Json Web Tokens | https://jwt.io/                      |
+| Bcrypt.js       | https://www.npmjs.com/package/bcrypt |
 
 ## :exclamation: Langkah-Langkah
 
@@ -59,6 +60,6 @@ Berikut Hasil :
 
 <center><img src="https://i.ibb.co/NTR9gqs/image-removebg-preview-23.png" alt="image-removebg-preview-23" style="zoom:80%;" /><Center>
 
-Support By : 
+Support By :
 
 ![img](https://cdn.discordapp.com/attachments/785216786902548521/913147130561060874/unknown.png)
